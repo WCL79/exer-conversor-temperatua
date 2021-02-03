@@ -1,5 +1,5 @@
 # exer-conversor-temperatua
-Exercício referente ao inicial sobre POO (Paradigma Orientado ao Objeto) 
+Exercício referente estudo inicial sobre POO (Paradigma Orientado ao Objeto) 
 
 A empresa ZUP elaborou uma ideia que inova ao incluir PCD (Pessoa Com Deficiência) ao mundo mercadológico da Programação! O Programa Catalisa tem o propósito literalmente o intento etimológico da palavra: ESTIMULAR!
 
